@@ -1,5 +1,7 @@
 # Devan Yu
 
+[Click here for README file](README.md)
+
 *Table of Contents:*
 - [Introduction](#introduction)
 - [Programming Skills](#programming-experience)
